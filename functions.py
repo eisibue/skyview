@@ -5,7 +5,7 @@ def SVF(x,cellsize=1):
     c =(int(w/2))
     x=x.reshape(w,w)
     print("length",z)
-        
+        #haha test
     #Calculate height difference
     Height = x-x[c,c]
     
